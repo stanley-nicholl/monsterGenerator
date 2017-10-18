@@ -1,5 +1,5 @@
 {
-  "name": "monsterGenerator",
+  "name": "monster-generator",
   "version": "0.0.1",
   "description": "Creates a random array of monsters based on user desired lenght",
   "main": "app.js",

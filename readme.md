@@ -1,9 +1,9 @@
 # Random Monster Generator
 > Generates array of random monsters including characteristics like name, weight, etc.
-## To install ==> npm install monsterGenerator
+## To install ==> npm install monster-generator
 ## To use ==>
 ```
-var monster = require('monsterGenerator');
+var monster = require('monster-generator');
 var monster = monster(2) // Number is the number of monsters generated in the array
 
 [ { name: 'Rotting Callie',
