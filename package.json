@@ -1,15 +1,16 @@
 {
-  "name": "create-npm-package",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "monsterGenerator",
+  "version": "0.0.1",
+  "description": "Creates a random array of monsters based on user desired lenght",
+  "main": "app.js",
+  "repo": "https://github.com/stanley-nicholl/monsterGenerator",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "faker": "^4.1.0"
   }
